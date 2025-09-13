@@ -1,0 +1,17 @@
+/* Ensure the placeholder text is white */
+.custom-form-control::placeholder {
+    color: white !important; /* Placeholder text color with higher specificity */
+}
+
+/* Customize the input group text styles */
+.input-group-text {
+    background-color: #212529; /* Background color */
+    border: none; /* Remove border */
+}
+
+/* Ensure the Form.Control input has correct styling */
+.custom-form-control {
+    background-color: #212529; /* Background color */
+    color: white; /* Text color */
+    border: none; /* Remove border */
+}

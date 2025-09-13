@@ -1,0 +1,35 @@
+.raise-issue-container {
+    background-color: #1E1E1E;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  .issue-buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .issue-button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+  }
+  
+  .issue-icon {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 10px;
+  }
+  
+  .issue-button-text {
+    background-color: #00B4D8;
+    border: none;
+    width: 100%;
+    padding: 10px;
+  }
+  

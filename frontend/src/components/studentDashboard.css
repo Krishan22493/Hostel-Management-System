@@ -1,0 +1,19 @@
+/* adminDashboard.css */
+
+.sidebar {
+    padding: 0;
+    background-color: #6c757d3d !important;
+}
+
+.nav-link.active {
+    color: rgb(12, 12, 12);
+    font-weight: bolder;
+}
+
+/* Optional: Additional styling for the image */
+img.profile-img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
